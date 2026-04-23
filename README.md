@@ -44,7 +44,7 @@ sudo docker run hello-world
 sudo chown ubuntu /var/run/docker.sock
 
 # Clone Repository
-git clone https://github.com/Naveen-5288/two-tier-flask-app.git
+git clone https://github.com/Naveen-5288/2-tier-flaskapp.git
 cd two-tier-flask-app/
 
 # Build Docker Image
