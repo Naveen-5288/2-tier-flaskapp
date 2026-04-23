@@ -25,7 +25,7 @@ Docker & Docker Compose installed
 Git installed
 
 # EC2 Setup
-launc ec2 with t2 micro and UBUNTU ami
+launch ec2 with t2 micro and UBUNTU ami
 
 # Connect to EC2 using SSH
 chmod 400 <key.pem>
